@@ -1,1 +1,1 @@
-# Music-Player-In-Python
+# CodeClause Music Player in Python
